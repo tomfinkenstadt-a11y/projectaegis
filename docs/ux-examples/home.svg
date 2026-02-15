@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1290" height="2796" viewBox="0 0 1290 2796">
+<rect width="100%" height="100%" fill="#000000"/>
+<text x="80" y="140" fill="#FFFFFF" font-size="64" font-family="Arial" font-weight="700">Project Aegis</text>
+<text x="80" y="200" fill="#BEBEBE" font-size="38" font-family="Arial">Offline-first survival MVP</text>
+<rect x="60" y="320" width="1170" height="180" rx="24" fill="#161616" stroke="#3C3C3C" stroke-width="2"/>
+<text x="95" y="388" fill="#FFFFFF" font-size="46" font-family="Arial" font-weight="700">Survival Library</text>
+<text x="95" y="442" fill="#BEBEBE" font-size="34" font-family="Arial">Offline articles by category</text>
+<rect x="60" y="534" width="1170" height="180" rx="24" fill="#161616" stroke="#3C3C3C" stroke-width="2"/>
+<text x="95" y="602" fill="#FFFFFF" font-size="46" font-family="Arial" font-weight="700">Knot Viewer</text>
+<text x="95" y="656" fill="#BEBEBE" font-size="34" font-family="Arial">RealityKit 3D model</text>
+<rect x="60" y="748" width="1170" height="180" rx="24" fill="#161616" stroke="#3C3C3C" stroke-width="2"/>
+<text x="95" y="816" fill="#FFFFFF" font-size="46" font-family="Arial" font-weight="700">Map</text>
+<text x="95" y="870" fill="#BEBEBE" font-size="34" font-family="Arial">Offline-ready scaffold</text>
+<rect x="60" y="962" width="1170" height="180" rx="24" fill="#161616" stroke="#3C3C3C" stroke-width="2"/>
+<text x="95" y="1030" fill="#FFFFFF" font-size="46" font-family="Arial" font-weight="700">Settings</text>
+<text x="95" y="1084" fill="#BEBEBE" font-size="34" font-family="Arial">Night Vision + diagnostics</text>
+</svg>
